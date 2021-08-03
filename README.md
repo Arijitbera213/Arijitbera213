@@ -17,4 +17,5 @@
 ### :trophy: My Github Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arijitbera213&&show_icons=true&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arijitbera213&theme=tokyonight&hide=dart">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Arijitbera213&show_icons=true&theme=tokyonight&fire=DD2727">
