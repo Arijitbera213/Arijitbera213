@@ -12,7 +12,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: PUBG and BGMI gamer :sunglasses:
 
-### :stars: Portfolio ➡ [Click here!](https://arijitbera213portfolio.vercel.app/)
+
 
 ### :trophy: My Github Stats
 
